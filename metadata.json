@@ -1,0 +1,8 @@
+{
+  "name": "Copy of ForgeAI - Advanced Full-Stack Website Builder",
+  "description": "An advanced AI-powered platform to generate complete full-stack websites (HTML/CSS/JS/Backend) from natural language prompts using Gemini 3 Pro.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
